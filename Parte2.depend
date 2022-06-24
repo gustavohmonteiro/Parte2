@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\cutbox.cpp
+	"CutBox.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\sculptor.h
+	<string>
+
+1656032299 c:\users\micro\desktop\escultor 3d\parte2\parte2\figurageometrica.h
+	"Sculptor.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\cutsphere.cpp
+	"CutSphere.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\cutvoxel.cpp
+	"CutVoxel.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656036187 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\putbox.cpp
+	"PutBox.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\putsphere.cpp
+	"PutSphere.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\putvoxel.cpp
+	"PutVoxel.h"
+
+1656034831 c:\users\micro\desktop\escultor 3d\parte2\parte2\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656034831 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1656035026 source:c:\users\micro\desktop\escultor 3d\parte2\parte2\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
